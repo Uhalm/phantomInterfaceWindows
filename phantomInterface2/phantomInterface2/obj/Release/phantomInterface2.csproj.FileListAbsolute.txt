@@ -1,0 +1,10 @@
+C:\Users\Paul\source\repos\phantomInterface2\phantomInterface2\bin\Release\phantomInterface2.exe.config
+C:\Users\Paul\source\repos\phantomInterface2\phantomInterface2\bin\Release\phantomInterface2.exe
+C:\Users\Paul\source\repos\phantomInterface2\phantomInterface2\bin\Release\phantomInterface2.pdb
+C:\Users\Paul\source\repos\phantomInterface2\phantomInterface2\obj\Release\phantomInterface2.csprojAssemblyReference.cache
+C:\Users\Paul\source\repos\phantomInterface2\phantomInterface2\obj\Release\phantomInterface2.Form1.resources
+C:\Users\Paul\source\repos\phantomInterface2\phantomInterface2\obj\Release\phantomInterface2.Properties.Resources.resources
+C:\Users\Paul\source\repos\phantomInterface2\phantomInterface2\obj\Release\phantomInterface2.csproj.GenerateResource.cache
+C:\Users\Paul\source\repos\phantomInterface2\phantomInterface2\obj\Release\phantomInterface2.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\phantomInterface2\phantomInterface2\obj\Release\phantomInterface2.exe
+C:\Users\Paul\source\repos\phantomInterface2\phantomInterface2\obj\Release\phantomInterface2.pdb
